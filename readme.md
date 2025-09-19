@@ -1,2 +1,2 @@
-## hello
-- this is coming from dev-adrien
+## hey yooo Everyone , welcome to my git guide!
+New Feature Added by dev 
